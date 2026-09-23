@@ -116,9 +116,7 @@ This app works alongside **[NearFix Partner](https://github.com/VegadManas/nearf
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
